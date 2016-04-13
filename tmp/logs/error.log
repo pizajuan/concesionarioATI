@@ -1,0 +1,10 @@
+2016-04-12 17:20:57 Error: Fatal Error (4): syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\www\concesionario\Config\database.php, line 59]
+2016-04-12 17:20:57 Error: [FatalErrorException] syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /concesionario/
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\www\\concesio...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\www\\concesio...', 59, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\www\\concesio...', 59, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
