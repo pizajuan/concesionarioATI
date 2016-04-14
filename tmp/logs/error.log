@@ -8,3 +8,63 @@ Stack Trace:
 #3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2016-04-14 02:28:08 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/login
+Stack Trace:
+#0 C:\www\concesionario\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-14 02:30:03 Error: [MissingActionException] Action HomeController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'display',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\www\concesionario\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-14 02:58:50 Error: [MissingActionException] Action HomeController::jquery-1.12.3() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'jquery-1.12.3',
+)
+Request URL: /home/jquery-1.12.3
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\www\concesionario\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-14 03:05:38 Error: Fatal Error (4): syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' in [C:\www\concesionario\Controller\AppController.php, line 25]
+2016-04-14 03:05:38 Error: [FatalErrorException] syntax error, unexpected '...' (T_ELLIPSIS), expecting ']'
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\www\\concesio...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\www\\concesio...', 25, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\www\\concesio...', 25, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-14 03:38:04 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [C:\www\concesionario\View\Layouts\default.ctp, line 21]
+2016-04-14 03:38:04 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\www\\concesio...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\www\\concesio...', 21, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\www\\concesio...', 21, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-14 04:06:09 Error: [MissingControllerException] Controller class Sticky-footerController could not be found.
+Exception Attributes: array (
+  'class' => 'Sticky-footerController',
+  'plugin' => NULL,
+)
+Request URL: /sticky-footer
+Stack Trace:
+#0 C:\www\concesionario\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
