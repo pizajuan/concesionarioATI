@@ -20,6 +20,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		echo $this->Html->script('https://code.jquery.com/jquery-1.12.0.min.js');
 		echo $this->Html->script('bootstrap.min');
 		echo $this->Html->css('bootstrap.min');
+		echo $this->Html->css('main.css');
 		//echo $this->Html->css('cake.generic');
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
@@ -37,16 +38,26 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 								 
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 									 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-								</button> <a class="navbar-brand" href="#">Volkswagen</a>
+								</button> <a class="navbar-brand" href="#" title="Volkswagen">
+									<img src="/webroot/img/logo_principal.png" alt="logo" height="30" width="30">Volkswagen</a>
 							</div>
 							
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
 									<li class="active">
-										<a href="#">Link</a>
+										<a href="Home/home">Inicio</a>
 									</li>
 									<li>
-										<a href="#">Link</a>
+										<a href="#">Catálogo</a>
+									</li>
+									<li>
+										<a href="#">Servicios</a>
+									</li>
+									<li>
+										<a href="#">Conócenos</a>
+									</li>
+									<li>
+										<a href="#">Contáctanos</a>
 									</li>
 									<li class="dropdown">
 										 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
