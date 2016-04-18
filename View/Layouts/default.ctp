@@ -19,6 +19,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		echo $this->Html->meta('icon');
 		echo $this->Html->script('https://code.jquery.com/jquery-1.12.0.min.js');
 		echo $this->Html->script('bootstrap.min');
+		echo $this->Html->script('default');
 		echo $this->Html->css('bootstrap.min');
 		echo $this->Html->css('main.css');
 		//echo $this->Html->css('cake.generic');
@@ -28,7 +29,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	?>
 </head>
 <body>
-	<div id="container">
+	<div id="container-all">
 		<div id="header">
 			<div class="container-fluid">
 				<div class="row">
@@ -39,13 +40,13 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 									 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 								</button> <a class="navbar-brand" href="#" title="Volkswagen">
-									<img src="/webroot/img/logo_principal.png" alt="logo" height="30" width="30">Volkswagen</a>
+									<img src="/img/logo_principal.png" alt="logo" height="40" width="40" class="logo-vw"></a>
 							</div>
 							
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
 									<li class="active">
-										<a href="Home/home">Inicio</a>
+										<a href="/">Inicio</a>
 									</li>
 									<li>
 										<a href="#">Catálogo</a>
@@ -94,7 +95,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 								</form>
 								<ul class="nav navbar-nav navbar-right">
 									<li>
-										<a href="#">Link</a>
+										<a href="#" data-toggle="modal" data-target="#loginModal">Ingresar</a>
 									</li>
 									<li class="dropdown">
 										 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
@@ -122,7 +123,90 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 					</div>
 				</div>
 			</div>
+			<!-- Modal Ingreso -->
+			<div class="modal fade" id="loginModal" role="dialog">
+			   <div class="modal-dialog modal-md">
+			    <!-- Modal content-->
+			      <div class="modal-content">
+			        <div class="modal-header">
+			          <button type="button" class="close" data-dismiss="modal">&times;</button>
+			          <h4 class="modal-title">Ingreso al Sistema</h4>
+			        </div>
+			        <div class="modal-body">
+			          <form id="loginForm" method="post" class="form-horizontal">
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Correo</label>
+	                        <div class="col-xs-5">
+	                            <input type="email" class="form-control" name="correo" />
+	                        </div>
+	                    </div>
 
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Contraseña</label>
+	                        <div class="col-xs-5">
+	                            <input type="password" class="form-control" name="contrasena" />
+	                        </div>
+	                    </div>
+
+	                    <div class="form-group">
+	                    	<div class="col-xs-6 col-xs-offset-3">
+	                        	<a href="#" data-toggle="modal" data-target="#registroModal" id="btn-registro">Registrate Aquí</a>
+	                        </div>
+	                    </div>
+                	</form>
+			        </div>
+			        <div class="modal-footer">
+			          	<div class="col-xs-5 col-xs-offset-3">
+	                        <button id="ingresarButton" type="submit" class="btn btn-primary">Ingresar</button>
+	                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+	                   	</div>
+			        </div>
+			      </div>
+			      
+			    </div>
+			</div>
+			<!-- Modal Registro-->
+			<div class="modal fade" id="registroModal" role="dialog">
+			   <div class="modal-dialog modal-lg">
+			    <!-- Modal content-->
+			      <div class="modal-content">
+			        <div class="modal-header">
+			          <button type="button" class="close" data-dismiss="modal">&times;</button>
+			          <h4 class="modal-title">Ingreso al Sistema</h4>
+			        </div>
+			        <div class="modal-body">
+			          <form id="loginForm" method="post" class="form-horizontal">
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Correo</label>
+	                        <div class="col-xs-5">
+	                            <input type="email" class="form-control" name="correo" />
+	                        </div>
+	                    </div>
+
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Contraseña</label>
+	                        <div class="col-xs-5">
+	                            <input type="password" class="form-control" name="contrasena" />
+	                        </div>
+	                    </div>
+
+	                    <div class="form-group">
+	                    	<div class="col-xs-6 col-xs-offset-3">
+	                        	<a href="#">Registrate Aquí</a>
+	                        </div>
+	                    </div>
+                	</form>
+			        </div>
+			        <div class="modal-footer">
+			          	<div class="col-xs-5 col-xs-offset-3">
+	                        <button type="submit" class="btn btn-primary">Ingresar</button>
+	                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+	                   	</div>
+			        </div>
+			      </div>
+			      
+			    </div>
+			</div>
 
 
 		</div>
@@ -134,7 +218,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		</div>
 		<footer id="footer" class="footer footer-fixed-bottom">
 	    	<div class="container">
-	        <p class="text-muted">Place sticky footer content here.</p>
+	        <p class="text-muted">Desarrollado por: Juan David Piza y Leonardo Santella</p>
 	      </div>
 	    </footer>
 	</div>

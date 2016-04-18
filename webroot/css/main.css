@@ -3,9 +3,39 @@
 }
 
 .page-header{
-	color: blue;
+	color: #e6e6ff;
+}
+
+.logo-vw{
+	float: left;
+	vertical-align: middle;
+	height: auto;
+}
+/*
+#container-all{
+	background-image: url('http://testcoches.es/wp-content/uploads/2015/09/volkswagen-logo.jpg'); 
+	background-attachment: fixed;
+  	background-repeat: no-repeat;
+}
+*/
+body{
+  background-image: url("https://4.bp.blogspot.com/-l4xOohjSusI/UvkXh6pnOVI/AAAAAAAAkCE/GyKS2-DYKdU/s0/Volkswagen+CC-2014_Ultra+HD.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: #464646;
+
+}
+
+.navbar-brand {
+    padding: 6px;
 }
 
 #content{
-	background-image: url('https://www.google.co.ve/imgres?imgurl=http%3A%2F%2Fmotrolix.com%2Fwp-content%2Fuploads%2F2015%2F04%2FVolkswagen-logo-on-2015-Volkswagen-Golf-SportWagen-02.jpg&imgrefurl=http%3A%2F%2Fmotrolix.com%2F2014%2F05%2Fvolkswagen-u-s-sales-down-8-percent-to-30831-units-in-april-2014-by-the-numbers%2F&docid=Tm5Zy_9-BmDvuM&tbnid=MBk-oZQH_kJl_M%3A&w=1500&h=1000&bih=623&biw=1366&ved=0ahUKEwiy-diW_pXMAhWIdR4KHTQ5DeQQMwhPKBgwGA&iact=mrc&uact=8'); 
+	height:100vh;
+}
+
+#content-home{
+	color:#ffffff;
 }
