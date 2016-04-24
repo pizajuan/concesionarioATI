@@ -22,4 +22,46 @@ App::uses('Controller', 'Controller');
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
+
+	public $components = array(
+		'Session',
+        'Auth' => array(
+  			'loginRedirect' => '/',
+			'logoutRedirect' => '/',
+			'authorize' => 'Controller',
+            
+            'authenticate' => array(
+				'Form' => array(
+					'fields' => array('username' => 'email'),	
+				)
+			)
+        )
+    );
+
+	public function printWithFormat($var, $withDie = false) { //Funcion de control para imprimir resultados
+		echo "<pre>";
+		var_dump($var);
+		echo "</pre>";
+		
+		if($withDie) {
+			die();
+		}
+	}
+
+	public function isAuthorized($user = null) {
+        // Any registered user can access public functions
+        if (empty($this->request->params['admin'])) {
+            return true;
+        }
+
+        // Only admins can access admin functions
+        if (isset($this->request->params['admin'])) {
+            return (bool)($user['role'] === 'admin');
+        }
+
+        // Default deny
+        return false;
+    }
+
+
 }

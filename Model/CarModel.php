@@ -1,11 +1,12 @@
 <?php
 App::uses('AppModel', 'Model');
 /**
- * TypeCar Model
+ * CarModel Model
  *
- * @property CarModel $CarModel
+ * @property TypeCar $TypeCar
+ * @property Car $Car
  */
-class TypeCar extends AppModel {
+class CarModel extends AppModel {
 
 /**
  * Display field
@@ -18,14 +19,29 @@ class TypeCar extends AppModel {
 	// The Associations below have been created with all possible keys, those that are not needed can be removed
 
 /**
+ * belongsTo associations
+ *
+ * @var array
+ */
+	public $belongsTo = array(
+		'TypeCar' => array(
+			'className' => 'TypeCar',
+			'foreignKey' => 'type_car_id',
+			'conditions' => '',
+			'fields' => '',
+			'order' => ''
+		)
+	);
+
+/**
  * hasMany associations
  *
  * @var array
  */
 	public $hasMany = array(
-		'CarModel' => array(
-			'className' => 'CarModel',
-			'foreignKey' => 'type_car_id',
+		'Car' => array(
+			'className' => 'Car',
+			'foreignKey' => 'car_model_id',
 			'dependent' => false,
 			'conditions' => '',
 			'fields' => '',

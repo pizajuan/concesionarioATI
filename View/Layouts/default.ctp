@@ -95,26 +95,11 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 								</form>
 								<ul class="nav navbar-nav navbar-right">
 									<li>
-										<a href="#" data-toggle="modal" data-target="#loginModal">Ingresar</a>
+										<a id="loginTag" href="#" data-toggle="modal" data-target="#loginModal">Ingresar</a>
+										<a id="loginName" href="#" data-toggle="modal" data-target="#loginModal" class="hidden"></a>
 									</li>
-									<li class="dropdown">
-										 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
-										<ul class="dropdown-menu">
-											<li>
-												<a href="#">Action</a>
-											</li>
-											<li>
-												<a href="#">Another action</a>
-											</li>
-											<li>
-												<a href="#">Something else here</a>
-											</li>
-											<li class="divider">
-											</li>
-											<li>
-												<a href="#">Separated link</a>
-											</li>
-										</ul>
+									<li>
+										<a id="logOutTag" href="#" data-toggle="modal" data-target="#" class="">Salir</a>
 									</li>
 								</ul>
 							</div>
@@ -137,14 +122,14 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	                    <div class="form-group">
 	                        <label class="col-xs-3 control-label">Correo</label>
 	                        <div class="col-xs-5">
-	                            <input type="email" class="form-control" name="correo" />
+	                            <input type="email" class="form-control" name="correo" id="logEmail"/>
 	                        </div>
 	                    </div>
 
 	                    <div class="form-group">
 	                        <label class="col-xs-3 control-label">Contraseña</label>
 	                        <div class="col-xs-5">
-	                            <input type="password" class="form-control" name="contrasena" />
+	                            <input type="password" class="form-control" name="contrasena" id="logPass" />
 	                        </div>
 	                    </div>
 
@@ -157,7 +142,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 			        </div>
 			        <div class="modal-footer">
 			          	<div class="col-xs-5 col-xs-offset-3">
-	                        <button id="ingresarButton" type="submit" class="btn btn-primary">Ingresar</button>
+	                        <button id="btnLogIn" type="submit" class="btn btn-primary">Ingresar</button>
 	                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
 	                   	</div>
 			        </div>
@@ -172,34 +157,52 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 			      <div class="modal-content">
 			        <div class="modal-header">
 			          <button type="button" class="close" data-dismiss="modal">&times;</button>
-			          <h4 class="modal-title">Ingreso al Sistema</h4>
+			          <h4 class="modal-title">Registro en el Sistema</h4>
 			        </div>
 			        <div class="modal-body">
 			          <form id="loginForm" method="post" class="form-horizontal">
 	                    <div class="form-group">
-	                        <label class="col-xs-3 control-label">Correo</label>
+	                        <label class="col-xs-3 control-label">Nombre</label>
 	                        <div class="col-xs-5">
-	                            <input type="email" class="form-control" name="correo" />
+	                            <input type="text" class="form-control" name="nombre" id="regName"/>
 	                        </div>
 	                    </div>
-
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Apellido</label>
+	                        <div class="col-xs-5">
+	                            <input type="text" class="form-control" name="apellido" id="regLastName"/>
+	                        </div>
+	                    </div>
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Cedula / RIF</label>
+	                        <div class="col-xs-5">
+	                            <input type="text" class="form-control" name="ci" id="regDocId" />
+	                        </div>
+	                    </div>
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Correo</label>
+	                        <div class="col-xs-5">
+	                            <input type="email" class="form-control" name="correo" id="regEmail" />
+	                        </div>
+	                    </div>
 	                    <div class="form-group">
 	                        <label class="col-xs-3 control-label">Contraseña</label>
 	                        <div class="col-xs-5">
-	                            <input type="password" class="form-control" name="contrasena" />
+	                            <input type="password" class="form-control" name="contrasena" id="regPass" />
+	                        </div>
+	                    </div>
+	                    <div class="form-group">
+	                        <label class="col-xs-3 control-label">Repetir Contraseña</label>
+	                        <div class="col-xs-5">
+	                            <input type="password" class="form-control" name="contrasena" id="regPassTwo"/>
 	                        </div>
 	                    </div>
 
-	                    <div class="form-group">
-	                    	<div class="col-xs-6 col-xs-offset-3">
-	                        	<a href="#">Registrate Aquí</a>
-	                        </div>
-	                    </div>
                 	</form>
 			        </div>
 			        <div class="modal-footer">
 			          	<div class="col-xs-5 col-xs-offset-3">
-	                        <button type="submit" class="btn btn-primary">Ingresar</button>
+	                        <button type="button" class="btn btn-primary" id="btnRegister">Registrar</button>
 	                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
 	                   	</div>
 			        </div>

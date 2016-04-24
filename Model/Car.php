@@ -3,7 +3,7 @@ App::uses('AppModel', 'Model');
 /**
  * Car Model
  *
- * @property Model $Model
+ * @property CarModel $CarModel
  * @property User $User
  * @property TypeCars $TypeCars
  * @property Date $Date
@@ -19,9 +19,9 @@ class Car extends AppModel {
  * @var array
  */
 	public $belongsTo = array(
-		'Model' => array(
-			'className' => 'Model',
-			'foreignKey' => 'model_id',
+		'CarModel' => array(
+			'className' => 'CarModel',
+			'foreignKey' => 'car_model_id',
 			'conditions' => '',
 			'fields' => '',
 			'order' => ''
