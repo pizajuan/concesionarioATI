@@ -11,7 +11,7 @@ class CarFixture extends CakeTestFixture {
  */
 	public $fields = array(
 		'id' => array('type' => 'biginteger', 'null' => false, 'default' => null, 'unsigned' => false, 'key' => 'primary'),
-		'model_id' => array('type' => 'biginteger', 'null' => true, 'default' => null, 'unsigned' => false),
+		'car_model_id' => array('type' => 'biginteger', 'null' => true, 'default' => null, 'unsigned' => false),
 		'car_id' => array('type' => 'biginteger', 'null' => true, 'default' => null, 'unsigned' => false),
 		'user_id' => array('type' => 'biginteger', 'null' => true, 'default' => null, 'unsigned' => false),
 		'type_cars_id' => array('type' => 'biginteger', 'null' => true, 'default' => null, 'unsigned' => false),
@@ -31,7 +31,7 @@ class CarFixture extends CakeTestFixture {
 	public $records = array(
 		array(
 			'id' => '',
-			'model_id' => '',
+			'car_model_id' => '',
 			'car_id' => '',
 			'user_id' => '',
 			'type_cars_id' => '',

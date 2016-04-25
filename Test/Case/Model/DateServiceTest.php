@@ -14,10 +14,6 @@ class DateServiceTest extends CakeTestCase {
 	public $fixtures = array(
 		'app.date_service',
 		'app.date',
-		'app.car',
-		'app.model',
-		'app.user',
-		'app.type_cars',
 		'app.service'
 	);
 

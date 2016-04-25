@@ -29,7 +29,7 @@ class DateFixture extends CakeTestFixture {
 	public $records = array(
 		array(
 			'id' => '',
-			'date' => '2016-04-13',
+			'date' => '2016-04-21',
 			'car_id' => '',
 			'user_id' => '',
 			'state_id' => 1

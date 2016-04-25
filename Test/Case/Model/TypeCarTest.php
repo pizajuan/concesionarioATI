@@ -13,7 +13,13 @@ class TypeCarTest extends CakeTestCase {
  */
 	public $fixtures = array(
 		'app.type_car',
-		'app.model'
+		'app.car_model',
+		'app.car',
+		'app.user',
+		'app.type_cars',
+		'app.date',
+		'app.date_service',
+		'app.service'
 	);
 
 /**
