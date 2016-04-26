@@ -2192,3 +2192,1889 @@ Stack Trace:
 #1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
 #2 C:\www\concesionario\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2016-04-25 13:51:12 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 13:51:12 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 13:58:04 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 13:58:04 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/logIn
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:02:16 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 14:02:16 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:38:20 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 14:38:20 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:38:21 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 14:38:21 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:38:23 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 14:38:23 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:39:07 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 14:39:08 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 14:43:08 Error: [MissingActionException] Action HomeController::Catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'Catalogs',
+)
+Request URL: /home/Catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:43:10 Error: [MissingActionException] Action HomeController::Catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'Catalogs',
+)
+Request URL: /home/Catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:43:11 Error: [MissingActionException] Action HomeController::Catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'Catalogs',
+)
+Request URL: /home/Catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:04 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:05 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:08 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:12 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:27 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:31 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:46 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:47 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:48 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:49 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:53 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:54 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:44:54 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:45:12 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:45:20 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:48:21 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:33 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:35 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:36 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:36 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:37 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:37 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:37 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:38 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:39 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:39 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:39 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 14:50:42 Error: [MissingActionException] Action HomeController::catalogs() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'catalogs',
+)
+Request URL: /home/catalogs/index
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:50:15 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:50:25 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:52:48 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 17:52:56 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:52:57 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:52:59 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:53:01 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:55:09 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:55:16 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:55:20 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 17:55:22 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:00:23 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 18:00:23 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/saveRegister
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 18:03:30 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:03:30 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:03:33 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:04:01 Error: [MissingViewException] View file "Home\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\index.ctp',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#4 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-25 18:04:41 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:06:31 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:06:33 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:07:00 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:07:02 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:11:29 Error: [MissingActionException] Action CatalogsController::lel() could not be found.
+Exception Attributes: array (
+  'controller' => 'CatalogsController',
+  'action' => 'lel',
+)
+Request URL: /catalogs/lel
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(CatalogsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:12:25 Error: [MissingActionException] Action CatalogsController::lel() could not be found.
+Exception Attributes: array (
+  'controller' => 'CatalogsController',
+  'action' => 'lel',
+)
+Request URL: /catalogs/lel
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(CatalogsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:12:27 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:19:24 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:19:27 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:19:28 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:19:41 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:22:33 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:25:37 Error: [MissingActionException] Action ServicesController::lol() could not be found.
+Exception Attributes: array (
+  'controller' => 'ServicesController',
+  'action' => 'lol',
+)
+Request URL: /services/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:25:39 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:25:40 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 18:25:40 Error: [MissingActionException] Action ServicesController::lol() could not be found.
+Exception Attributes: array (
+  'controller' => 'ServicesController',
+  'action' => 'lol',
+)
+Request URL: /services/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:26:08 Error: [MissingActionException] Action ServicesController::lol() could not be found.
+Exception Attributes: array (
+  'controller' => 'ServicesController',
+  'action' => 'lol',
+)
+Request URL: /services/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 18:26:11 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:30:11 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:30:14 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:30:15 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 18:30:16 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 18:30:18 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 18:30:19 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:21:34 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:21:34 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:27:25 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:27:25 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:27:28 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:27:28 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:27:29 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:27:30 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:27:31 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:27:32 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:27:32 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:27:33 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:27:34 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:27:34 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:27:40 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:27:41 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:27:42 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:28:46 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:28:52 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:28:52 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:28:53 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:28:54 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:28:55 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:28:55 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:28:56 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:28:56 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 19:28:56 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 19:29:28 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 19:29:30 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /home/home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 19:29:32 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:15:33 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:15:34 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:15:38 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:15:39 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:15:42 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:15:42 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:15:44 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:16:07 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:16:07 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:16:08 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:16:09 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:16:09 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:16:23 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:16:53 Error: [MissingControllerException] Controller class ContactusController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactusController',
+  'plugin' => NULL,
+)
+Request URL: /contactus/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:16:54 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:17:04 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:17:05 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:19:39 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:19:40 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:19:40 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:19:40 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:19:41 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:19:42 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:19:42 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:19:43 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:19:47 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:19:47 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:19:49 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:19:49 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:19:50 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:19:53 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:19:56 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:19:58 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:19:58 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:20:21 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:20:58 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:20:59 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:22:36 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:22:51 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:22:54 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:23:13 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:23:18 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:23:47 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:23:48 Error: [MissingViewException] View file "Home\home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\home.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\app\Controller\HomeController.php(32): Controller->render()
+#3 [internal function]: HomeController->home()
+#4 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#7 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-25 20:23:48 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:23:49 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:23:50 Error: [MissingActionException] Action HomeController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+)
+Request URL: /home
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:25:45 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:25:45 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:25:51 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:25:51 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:35:20 Error: [MissingViewException] View file "Services\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Services\\index.ctp',
+)
+Request URL: /services
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-25 20:35:21 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:35:21 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:35:48 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:35:48 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:35:52 Error: Fatal Error (1): Call to undefined function flash() in [C:\xampp\htdocs\app\Controller\CatalogsController.php, line 27]
+2016-04-25 20:35:52 Error: [FatalErrorException] Call to undefined function flash()
+Request URL: /catalogs/lol
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:35:59 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:36:02 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:37:50 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:38:42 Error: [MissingViewException] View file "Services\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Services\\index.ctp',
+)
+Request URL: /services
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-25 20:44:39 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:44:43 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:44:53 Error: [MissingActionException] Action HomeController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'home',
+)
+Request URL: /
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#2 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-25 20:45:01 Error: [MissingViewException] View file "Services\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Services\\index.ctp',
+)
+Request URL: /services
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ServicesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-25 20:45:02 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:48:33 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:48:35 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:49:44 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:49:46 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:49:49 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:49:51 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:50:54 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:50:57 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:53:43 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:53:47 Error: [MissingControllerException] Controller class WhoController could not be found.
+Exception Attributes: array (
+  'class' => 'WhoController',
+  'plugin' => NULL,
+)
+Request URL: /who/lol
+Stack Trace:
+#0 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-25 20:54:03 Error: [MissingViewException] View file "Contactus\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Contactus\\index.ctp',
+)
+Request URL: /contactus
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ContactusController), Object(CakeRequest))
+#4 C:\xampp\htdocs\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-25 20:56:25 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 20:56:25 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/logIn
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:56:25 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 20:56:25 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/logIn
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:56:25 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 20:56:25 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/logIn
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-25 20:56:26 Error: Fatal Error (1): Class 'AppModel' not found in [C:\xampp\htdocs\app\Model\Model.php, line 9]
+2016-04-25 20:56:26 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /profiles/logIn
+Stack Trace:
+#0 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', 'C:\\xampp\\htdocs...', 9, Array)
+#3 C:\www\frameworks\cakephp\cakephp-2.8.3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

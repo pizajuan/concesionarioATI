@@ -34,7 +34,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12">
-						<nav class="navbar navbar-default" role="navigation">
+						<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 							<div class="navbar-header">
 								 
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -46,53 +46,21 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
 									<li class="active">
-										<a href="/">Inicio</a>
+										<a href="/home">Inicio</a>
 									</li>
 									<li>
-										<a href="#">Catálogo</a>
+										<?php echo $this->Html->link('Catálogo', array('controller'=>'catalogs', 'action'=>'lol'))?>
 									</li>
 									<li>
-										<a href="#">Servicios</a>
+										<?php echo $this->Html->link('Servicios', array('controller'=>'services'))?>
 									</li>
 									<li>
-										<a href="#">Conócenos</a>
+										<?php echo $this->Html->link('Conócenos', array('controller'=>'meetus'))?>
 									</li>
 									<li>
-										<a href="#">Contáctanos</a>
-									</li>
-									<li class="dropdown">
-										 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
-										<ul class="dropdown-menu">
-											<li>
-												<a href="#">Action</a>
-											</li>
-											<li>
-												<a href="#">Another action</a>
-											</li>
-											<li>
-												<a href="#">Something else here</a>
-											</li>
-											<li class="divider">
-											</li>
-											<li>
-												<a href="#">Separated link</a>
-											</li>
-											<li class="divider">
-											</li>
-											<li>
-												<a href="#">One more separated link</a>
-											</li>
-										</ul>
+										<?php echo $this->Html->link('Contáctanos', array('controller'=>'contactus'))?>
 									</li>
 								</ul>
-								<form class="navbar-form navbar-left" role="search">
-									<div class="form-group">
-										<input type="text" class="form-control" />
-									</div> 
-									<button type="submit" class="btn btn-default">
-										Submit
-									</button>
-								</form>
 								<ul class="nav navbar-nav navbar-right">
 									<li>
 										<a id="loginTag" href="#" data-toggle="modal" data-target="#loginModal">Ingresar</a>
@@ -213,17 +181,12 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 
 
 		</div>
-		<div id="content" class ="container">
+		<div id="content" class ="">
 
 			<?php echo $this->Session->flash(); ?>
 
 			<?php echo $this->fetch('content'); ?>
 		</div>
-		<footer id="footer" class="footer footer-fixed-bottom">
-	    	<div class="container">
-	        <p class="text-muted">Desarrollado por: Juan David Piza y Leonardo Santella</p>
-	      </div>
-	    </footer>
 	</div>
 	<?php echo $this->element('sql_dump'); ?>
 </body>

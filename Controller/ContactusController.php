@@ -11,7 +11,6 @@
  */
 
 App::uses('AppController', 'Controller');
-App::uses('User', 'Model');
 
 /**
  * Application Controller
@@ -22,16 +21,9 @@ App::uses('User', 'Model');
  * @package		app.Controller
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
-class UsersController extends AppController {
+class ContactusController extends AppController {
 
-    public function beforeFilter() {
-        parent::beforeFilter();
-        $this->Auth->allow(); 
-    }
-    
-    //-----------------------------------------------------------------------------------------------------------------
-    public function login() {
-        $this->redirect(array('controller' => 'home','action' => 'home'));
+    function index() {
     }
 
 

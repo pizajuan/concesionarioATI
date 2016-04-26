@@ -11,7 +11,6 @@
  */
 
 App::uses('AppController', 'Controller');
-App::uses('User', 'Model');
 
 /**
  * Application Controller
@@ -22,18 +21,19 @@ App::uses('User', 'Model');
  * @package		app.Controller
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
-class UsersController extends AppController {
+class CatalogsController extends AppController {
+	function beforeFilter(){
+	    parent::beforeFilter();
+	}
 
-    public function beforeFilter() {
-        parent::beforeFilter();
-        $this->Auth->allow(); 
+	public $helpers = array('Html', 'Form');
+
+    function index() {
+
     }
-    
-    //-----------------------------------------------------------------------------------------------------------------
-    public function login() {
-        $this->redirect(array('controller' => 'home','action' => 'home'));
+
+    function lol() {
+    	//$this->set('cars', $this->Car->find('all'));
     }
-
-
 }
 ?>

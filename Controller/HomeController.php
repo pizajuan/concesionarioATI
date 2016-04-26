@@ -28,9 +28,10 @@ class HomeController extends AppController {
 		$this->Auth->allow(); 
     }
 
-    function home() {
-    	$this->render();
+    function index() {
     }
 
+    function contactus() {
+    }
 }
 ?>

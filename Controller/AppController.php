@@ -23,6 +23,10 @@ App::uses('Controller', 'Controller');
  */
 class AppController extends Controller {
 
+	public function beforeFilter() {
+	 	parent::beforeFilter();
+		$this->Auth->allow('logIn','saveRegister','index', 'lol');  
+    }
 	public $components = array(
 		'Session',
         'Auth' => array(
